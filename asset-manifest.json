@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/losReact-ecommerce/static/css/main.0d7eef26.chunk.css",
+    "main.js": "/losReact-ecommerce/static/js/main.0ada8b2a.chunk.js",
+    "main.js.map": "/losReact-ecommerce/static/js/main.0ada8b2a.chunk.js.map",
+    "runtime-main.js": "/losReact-ecommerce/static/js/runtime-main.4a886ef7.js",
+    "runtime-main.js.map": "/losReact-ecommerce/static/js/runtime-main.4a886ef7.js.map",
+    "static/js/2.d789395e.chunk.js": "/losReact-ecommerce/static/js/2.d789395e.chunk.js",
+    "static/js/2.d789395e.chunk.js.map": "/losReact-ecommerce/static/js/2.d789395e.chunk.js.map",
+    "index.html": "/losReact-ecommerce/index.html",
+    "precache-manifest.91742a64e99e073d6b8128d6404734ae.js": "/losReact-ecommerce/precache-manifest.91742a64e99e073d6b8128d6404734ae.js",
+    "service-worker.js": "/losReact-ecommerce/service-worker.js",
+    "static/css/main.0d7eef26.chunk.css.map": "/losReact-ecommerce/static/css/main.0d7eef26.chunk.css.map",
+    "static/js/2.d789395e.chunk.js.LICENSE.txt": "/losReact-ecommerce/static/js/2.d789395e.chunk.js.LICENSE.txt",
+    "static/media/city.jpeg": "/losReact-ecommerce/static/media/city.395080be.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a886ef7.js",
+    "static/js/2.d789395e.chunk.js",
+    "static/css/main.0d7eef26.chunk.css",
+    "static/js/main.0ada8b2a.chunk.js"
+  ]
+}
